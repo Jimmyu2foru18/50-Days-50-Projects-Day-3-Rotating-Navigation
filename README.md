@@ -38,8 +38,8 @@ A stylish and interactive web page featuring a unique rotating navigation animat
 
 1. Clone the repository: 
     ```bash
-git clone https://github.com/Jimmyu2foru18/50-Days-50-Projects-Day-3-Rotating-Navigation.git
-``` 
+    git clone https://github.com/Jimmyu2foru18/50-Days-50-Projects-Day-3-Rotating-Navigation.git
+    ``` 
 
 2. Open the project folder and ensure all files are present:
    - Nav.html
